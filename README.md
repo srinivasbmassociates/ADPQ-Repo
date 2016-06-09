@@ -52,7 +52,7 @@ Approach
 Pool Three Requirements
 ------------------------
 
-** Assigned one leader, gave that person authority and responsibility and held that person accountable for the quality of the prototype submitted: **
+**Assigned one leader, gave that person authority and responsibility and held that person accountable for the quality of the prototype submitted:**
 An internal team meeting was convened to determine staffing; Siddharth was assigned Team Leader based on skills and availability:  (https://github.com/srinivasbmassociates/ADPQ-Repo/blob/master/TEAM.md)
 
 **assembled a multidisciplinary and collaborative team including a minimum of 5 labor categories from the Development Pool labor categories to design and develop the prototype:**
@@ -82,10 +82,10 @@ Child welfare site , California Govt agency site , U.S. Digital Services
 Playbook, defining the audience for the sites by conducting group discussion with target crowd
 involving parents , caseworkers  etc...
 Referenced Sites
-https://www.childwelfare.gov/
-http://www.casaforchildren.org/
-http://www.acf.hhs.gov/
-https://chhs.data.ca.gov/
+(https://www.childwelfare.gov/) 
+(http://www.casaforchildren.org/) 
+(http://www.acf.hhs.gov/) 
+(https://chhs.data.ca.gov/) 
 
 -  Ideation
 
