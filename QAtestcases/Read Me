@@ -1,0 +1,20 @@
+Read Me
+
+here we created this project using POM(Page Object Model)
+
+there are mainly three packages 
+	1.Operations
+			used to create basic and complex operations which are used frequently are kept in this and imported where ever we are going to use.
+	2.PageObjects
+			used to create the properties files for individual pages for storing the properties of the web elements which are present in their respective pages.
+	3.Test cases
+			here comes the major part where we are going to create the cases of which ever the format we want or what we want to verify we are creating using those two packages.
+			as of now we created login ,Register and SearchFunctionality_UnderParent (all are positive scenarios).
+			
+	Test data folder for Test data(in this we divided login and register data). as of now it is simple having only one field.
+	
+	for using it just import and add this to package explorer.
+	
+	open test cases package and Run the cases.
+	
+	further we can include screen capture(if it fails) and result viewer to every case for clear understanding.
